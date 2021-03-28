@@ -1,0 +1,76 @@
+{
+  "clubs": [
+    {
+      "name": "Bayern München",
+      "scudetto": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg/1200px-FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg.png"
+    },
+    {
+      "name": "FC Schalke 04",
+      "scudetto": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/FC_Schalke_04_Logo.svg/1200px-FC_Schalke_04_Logo.svg.png"
+    },
+    {
+      "name": "Eintracht Frankfurt",
+      "scudetto": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Eintracht_Frankfurt_Logo.svg/1200px-Eintracht_Frankfurt_Logo.svg.png"
+    },
+    {
+      "name": "Arminia Bielefeld",
+      "scudetto": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Arminia_Bielefeld_logo.svg/1200px-Arminia_Bielefeld_logo.svg.png"
+    },
+    {
+      "name": "1. FC Union Berlin",
+      "scudetto": "https://upload.wikimedia.org/wikipedia/it/8/81/1_FC_Union_Berlin.png"
+    },
+    {
+      "name": "FC Augsburg",
+      "scudetto": "https://upload.wikimedia.org/wikipedia/it/4/42/FC_Augsburg.png"
+    },
+    {
+      "name": "1. FC Köln",
+      "scudetto": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/FC_Cologne_logo.svg/1200px-FC_Cologne_logo.svg.png"
+    },
+    {
+      "name": "TSG 1899 Hoffenheim",
+      "scudetto": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Logo_TSG_Hoffenheim.svg/1200px-Logo_TSG_Hoffenheim.svg.png"
+    },
+    {
+      "name": "Werder Bremen",
+      "scudetto": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SV-Werder-Bremen-Logo.svg/140px-SV-Werder-Bremen-Logo.svg.png"
+    },
+    {
+      "name": "Hertha BSC",
+      "scudetto": "https://upload.wikimedia.org/wikipedia/it/8/84/Hertha_bsc_berlin.png"
+    },
+    {
+      "name": "VfB Stuttgart",
+      "scudetto": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/VfB_Stuttgart_1893_Logo.svg/1200px-VfB_Stuttgart_1893_Logo.svg.png"
+    },
+    {
+      "name": "SC Freiburg",
+      "scudetto": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/SC_Freiburg_logo.svg/1200px-SC_Freiburg_logo.svg.png"
+    },
+    {
+      "name": "Borussia Dortmund",
+      "scudetto": "https://upload.wikimedia.org/wikipedia/it/c/c6/Borussiadtmstemma.png"
+    },
+    {
+      "name": "Bor. Mönchengladbach",
+      "scudetto": "https://upload.wikimedia.org/wikipedia/it/f/f3/Borussia_M%C3%B6nchengladbach.png"
+    },
+    {
+      "name": "RB Leipzig",
+      "scudetto": "https://upload.wikimedia.org/wikipedia/it/7/7d/RB_Leipzig_2014_logo.png"
+    },
+    {
+      "name": "1. FSV Mainz 05",
+      "scudetto": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Logo_Mainz_05.svg/1200px-Logo_Mainz_05.svg.png"
+    },
+    {
+      "name": "VfL Wolfsburg",
+      "scudetto": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Logo-VfL-Wolfsburg.svg/1200px-Logo-VfL-Wolfsburg.svg.png"
+    },
+    {
+      "name": "Bayer 04 Leverkusen",
+      "scudetto": "https://upload.wikimedia.org/wikipedia/it/c/c5/Bayer04stemma.png"
+    }
+  ]
+}

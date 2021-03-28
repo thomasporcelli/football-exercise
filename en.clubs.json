@@ -1,0 +1,84 @@
+{
+  "clubs": [
+    {
+      "name": "Burnley FC",
+      "scudetto": "https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Burnley_F.C._Logo.svg/1200px-Burnley_F.C._Logo.svg.png"
+    },
+    {
+      "name": "Manchester United FC",
+      "scudetto": "https://upload.wikimedia.org/wikipedia/it/2/26/Manchester_United_logo.png"
+    },
+    {
+      "name": "Manchester City FC",
+      "scudetto": "https://upload.wikimedia.org/wikipedia/it/7/74/Manchester_City_stemma.svg"
+    },
+    {
+      "name": "Aston Villa FC",
+      "scudetto": "https://upload.wikimedia.org/wikipedia/it/e/ea/Aston_Villa_Logo_2007.png"
+    },
+    {
+      "name": "Fulham FC",
+      "scudetto": "https://upload.wikimedia.org/wikipedia/it/8/8d/Fulham_FC.png"
+    },
+    {
+      "name": "Arsenal FC",
+      "scudetto": "https://upload.wikimedia.org/wikipedia/it/thumb/d/dc/Stemma_Arsenal_FC.svg/1200px-Stemma_Arsenal_FC.svg.png"
+    },
+    {
+      "name": "Crystal Palace FC",
+      "scudetto": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Crystal_Palace_FC_logo.svg/1200px-Crystal_Palace_FC_logo.svg.png"
+    },
+    {
+      "name": "Southampton FC",
+      "scudetto": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/FC_Southampton.svg/1200px-FC_Southampton.svg.png"
+    },
+    {
+      "name": "Liverpool FC",
+      "scudetto": "https://upload.wikimedia.org/wikipedia/it/e/e8/Liverpool_FC_logo.svg"
+    },
+    {
+      "name": "Leeds United FC",
+      "scudetto": "https://upload.wikimedia.org/wikipedia/it/d/d1/LeedsUtd.png"
+    },
+    {
+      "name": "West Ham United FC",
+      "scudetto": "https://upload.wikimedia.org/wikipedia/it/8/85/West_Ham_United_FC.png"
+    },
+    {
+      "name": "Newcastle United FC",
+      "scudetto": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Newcastle_United_Logo.svg/1200px-Newcastle_United_Logo.svg.png"
+    },
+    {
+      "name": "West Bromwich Albion FC",
+      "scudetto": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/West_Bromwich_Albion.svg/1200px-West_Bromwich_Albion.svg.png"
+    },
+    {
+      "name": "Leicester City FC",
+      "scudetto": "https://upload.wikimedia.org/wikipedia/it/thumb/a/a3/Leicester_City_Logo_%282009%29.svg/1200px-Leicester_City_Logo_%282009%29.svg.png"
+    },
+    {
+      "name": "Tottenham Hotspur FC",
+      "scudetto": "https://upload.wikimedia.org/wikipedia/it/8/81/Tottenham_Hotspur_FC.png"
+    },
+    {
+      "name": "Everton FC",
+      "scudetto": "https://upload.wikimedia.org/wikipedia/it/a/ae/Everton_FC_logo_2014.png"
+    },
+    {
+      "name": "Sheffield United FC",
+      "scudetto": "https://upload.wikimedia.org/wikipedia/it/2/22/Sheffield_Utd_stemma.png"
+    },
+    {
+      "name": "Wolverhampton Wanderers FC",
+      "scudetto": "https://upload.wikimedia.org/wikipedia/it/6/6c/Wolverhampton_Wanderers.png"
+    },
+    {
+      "name": "Brighton & Hove Albion FC",
+      "scudetto": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Brighton_%26_Hove_Albion_logo.svg/1200px-Brighton_%26_Hove_Albion_logo.svg.png"
+    },
+    {
+      "name": "Chelsea FC",
+      "scudetto": "https://upload.wikimedia.org/wikipedia/it/thumb/e/e2/Chelsea_FC_logo.svg/1200px-Chelsea_FC_logo.svg.png"
+    }
+  ]
+}

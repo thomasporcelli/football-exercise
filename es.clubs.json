@@ -1,0 +1,84 @@
+{
+  "clubs": [
+    {
+      "name": "SD Eibar",
+      "scudetto": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/SD_Eibar_logo_2016.svg/1200px-SD_Eibar_logo_2016.svg.png"
+    },
+    {
+      "name": "RC Celta Vigo",
+      "scudetto": "https://upload.wikimedia.org/wikipedia/it/8/88/Rc_celta_de_vigo.png"
+    },
+    {
+      "name": "Granada CF",
+      "scudetto": "https://upload.wikimedia.org/wikipedia/it/4/4f/Logo-granada-cf.png"
+    },
+    {
+      "name": "Athletic Club Bilbao",
+      "scudetto": "https://upload.wikimedia.org/wikipedia/it/e/ea/Athletic_Club.png"
+    },
+    {
+      "name": "Cádiz CF",
+      "scudetto": "https://upload.wikimedia.org/wikipedia/en/thumb/5/58/C%C3%A1diz_CF_logo.svg/1200px-C%C3%A1diz_CF_logo.svg.png"
+    },
+    {
+      "name": "CA Osasuna",
+      "scudetto": "https://upload.wikimedia.org/wikipedia/it/5/53/Ca_osasuna.png"
+    },
+    {
+      "name": "FC Barcelona",
+      "scudetto": "https://upload.wikimedia.org/wikipedia/it/0/07/Fc_barcelona.png"
+    },
+    {
+      "name": "Elche CF",
+      "scudetto": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Elche_CF_logo.svg/1200px-Elche_CF_logo.svg.png"
+    },
+    {
+      "name": "Real Madrid",
+      "scudetto": "https://upload.wikimedia.org/wikipedia/it/thumb/0/0c/Real_Madrid_CF_logo.svg/1200px-Real_Madrid_CF_logo.svg.png"
+    },
+    {
+      "name": "Getafe CF",
+      "scudetto": "https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Getafe_logo.svg/1200px-Getafe_logo.svg.png"
+    },
+    {
+      "name": "Deportivo Alavés",
+      "scudetto": "https://upload.wikimedia.org/wikipedia/commons/7/79/Deportivo_alaves_logo.png"
+    },
+    {
+      "name": "Real Betis",
+      "scudetto": "https://upload.wikimedia.org/wikipedia/en/thumb/1/13/Real_betis_logo.svg/1200px-Real_betis_logo.svg.png"
+    },
+    {
+      "name": "Real Valladolid CF",
+      "scudetto": "https://upload.wikimedia.org/wikipedia/it/2/2b/Real_Valladolid.png"
+    },
+    {
+      "name": "Real Sociedad",
+      "scudetto": "https://upload.wikimedia.org/wikipedia/it/b/b2/Real_sociedad_de_futbol.png"
+    },
+    {
+      "name": "Villarreal CF",
+      "scudetto": "https://upload.wikimedia.org/wikipedia/it/6/65/Villarreal_cf.png"
+    },
+    {
+      "name": "SD Huesca",
+      "scudetto": "https://upload.wikimedia.org/wikipedia/it/1/16/SD_Huesca.png"
+    },
+    {
+      "name": "Valencia CF",
+      "scudetto": "https://upload.wikimedia.org/wikipedia/it/b/b2/Valencia_cf.png"
+    },
+    {
+      "name": "Levante UD",
+      "scudetto": "https://upload.wikimedia.org/wikipedia/it/thumb/7/7b/Levante_Uni%C3%B3n_Deportiva%2C_S.A.D._logo.svg/1200px-Levante_Uni%C3%B3n_Deportiva%2C_S.A.D._logo.svg.png"
+    },
+    {
+      "name": "Atlético Madrid",
+      "scudetto": "https://upload.wikimedia.org/wikipedia/it/1/15/Club_Atl%C3%A9tico_de_Madrid_logo_2018.png"
+    },
+    {
+      "name": "Sevilla FC",
+      "scudetto": "https://upload.wikimedia.org/wikipedia/it/2/2d/Sevilla_fc.png"
+    }
+  ]
+}
