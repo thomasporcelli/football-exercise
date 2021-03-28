@@ -1,0 +1,84 @@
+{
+  "clubs": [
+    {
+      "name": "ACF Fiorentina",
+      "scudetto": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/ACF_Fiorentina.svg/1200px-ACF_Fiorentina.svg.png"
+    },
+    {
+      "name": "Torino FC",
+      "scudetto": "https://upload.wikimedia.org/wikipedia/it/thumb/0/04/Torino_FC_logo.svg/1200px-Torino_FC_logo.svg.png"
+    },
+    {
+      "name": "Hellas Verona",
+      "scudetto": "https://upload.wikimedia.org/wikipedia/it/thumb/c/c9/HellasVeronaFCstemma.png/180px-HellasVeronaFCstemma.png"
+    },
+    {
+      "name": "AS Roma",
+      "scudetto": "https://upload.wikimedia.org/wikipedia/it/thumb/0/0e/AS_Roma_Logo_2017.svg/1200px-AS_Roma_Logo_2017.svg.png"
+    },
+    {
+      "name": "Parma",
+      "scudetto": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_Parma_Calcio_1913_%28adozione_2016%29.svg/1200px-Logo_Parma_Calcio_1913_%28adozione_2016%29.svg.png"
+    },
+    {
+      "name": "SSC Napoli",
+      "scudetto": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/SSC_Neapel.svg/1200px-SSC_Neapel.svg.png"
+    },
+    {
+      "name": "Genoa CFC",
+      "scudetto": "https://upload.wikimedia.org/wikipedia/it/thumb/0/06/Genoacfcstemma.svg/1200px-Genoacfcstemma.svg.png"
+    },
+    {
+      "name": "FC Crotone",
+      "scudetto": "https://upload.wikimedia.org/wikipedia/it/thumb/a/a3/FC_Crotone_Logo.svg/1200px-FC_Crotone_Logo.svg.png"
+    },
+    {
+      "name": "US Sassuolo Calcio",
+      "scudetto": "https://upload.wikimedia.org/wikipedia/it/2/2c/Logo_US_Sassuolo_cent%27anni.png"
+    },
+    {
+      "name": "Cagliari Calcio",
+      "scudetto": "https://upload.wikimedia.org/wikipedia/it/thumb/8/88/Cagliari_calcio.svg/1200px-Cagliari_calcio.svg.png"
+    },
+    {
+      "name": "Juventus",
+      "scudetto": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Juventus_FC_2017_icon_%28black%29.svg/1200px-Juventus_FC_2017_icon_%28black%29.svg.png"
+    },
+    {
+      "name": "UC Sampdoria",
+      "scudetto": "https://upload.wikimedia.org/wikipedia/it/1/19/Sampdoriastemma.png"
+    },
+    {
+      "name": "AC Milan",
+      "scudetto": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Logo_of_AC_Milan.svg/1200px-Logo_of_AC_Milan.svg.png"
+    },
+    {
+      "name": "Bologna FC",
+      "scudetto": "https://upload.wikimedia.org/wikipedia/it/thumb/9/97/Logo_Bologna_FC_2018.svg/1200px-Logo_Bologna_FC_2018.svg.png"
+    },
+    {
+      "name": "Atalanta Bergamo",
+      "scudetto": "https://upload.wikimedia.org/wikipedia/it/thumb/8/81/Logo_Atalanta_Bergamo.svg/1200px-Logo_Atalanta_Bergamo.svg.png"
+    },
+    {
+      "name": "SS Lazio",
+      "scudetto": "https://upload.wikimedia.org/wikipedia/it/thumb/6/62/Stemma_della_Societ%C3%A0_Sportiva_Lazio.svg/1200px-Stemma_della_Societ%C3%A0_Sportiva_Lazio.svg.png"
+    },
+    {
+      "name": "Benevento",
+      "scudetto": "https://upload.wikimedia.org/wikipedia/it/thumb/3/31/Benevento_Calcio.svg/1200px-Benevento_Calcio.svg.png"
+    },
+    {
+      "name": "FC Internazionale Milano",
+      "scudetto": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/FC_Internazionale_Milano_2014.svg/1200px-FC_Internazionale_Milano_2014.svg.png"
+    },
+    {
+      "name": "Spezia",
+      "scudetto": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Spezia_Calcio.svg/1010px-Spezia_Calcio.svg.png"
+    },
+    {
+      "name": "Udinese Calcio",
+      "scudetto": "https://upload.wikimedia.org/wikipedia/it/thumb/a/ae/Logo_Udinese_Calcio_2010.svg/1200px-Logo_Udinese_Calcio_2010.svg.png"
+    }
+  ]
+}
